@@ -1,5 +1,8 @@
 # Changelog for RaiseTheRoof
 
+1.6.2 - Added support for any mod that uses the Sanguophage utility to check if the pawn is in sunlight
+
+
 1.6.1 - Missing version tag on preview
 
 

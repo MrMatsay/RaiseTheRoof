@@ -2,17 +2,18 @@
   "Continued": true,
   "CanAdd": "0",
   "CanRemove": "2",
-  "LastXmlCleaning": "2025-10-23T16:01:22.3404813+02:00",
+  "LastXmlCleaning": "2026-01-02T19:55:18.662745+01:00",
   "PreviewVersion": "1.6",
   "SocialImageSet": true,
   "Patches": false,
   "Defs": true,
   "Assemblies": true,
-  "LinesOfCode": 72888,
+  "LinesOfCode": 73504,
   "LinesOfXML": 16109,
   "SearchTags": [
     " weather protection",
     " infestations"
   ],
-  "RimWorldBaseId": 22990
+  "RimWorldBaseId": 22990,
+  "CodeBaseSize": 78
 }

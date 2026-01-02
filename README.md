@@ -1,15 +1,13 @@
 # [Raise The Roof (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3592101493)
 
-![Image](https://i.postimg.cc/1X4HT06h/Info.png)
+![Image](https://img.litet.net/logos/Info.png)
 
 Update of Machines mod https://steamcommunity.com/sharedfiles/filedetails/?id=1776143665
 based on the 1.5 version by Greysuki https://steamcommunity.com/sharedfiles/filedetails/?id=3225597321
 
-![Image](https://i.postimg.cc/8csH3dWV/Notice.png)
+![Image](https://img.litet.net/logos/Notice.png)
 	
-![Image](https://i.postimg.cc/hvhrw8xB/Original-Description.png)
-
-***UNSUPPORTED***
+![Image](https://img.litet.net/logos/OriginalDescription.png)
 
 Build a variety of thick roofs for protection against drop pods, mortars and tornadoes.
 
@@ -50,7 +48,7 @@ https://github.com/pardeike/Harmony/wiki
 
 Mod ID # 1776143665
 
-![Image](https://i.postimg.cc/x8qR7GH9/Reporting-Issues.png)
+![Image](https://img.litet.net/logos/ReportingIssues.png)
 
 
 
